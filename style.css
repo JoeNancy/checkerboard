@@ -25,7 +25,7 @@ and viceversa for the bottom class.*/
 }
 
 .bottom{background-color: #0dd1ff;
-background-image: linear-gradient(45deg,#6107BB, #EC1036);
+background-image: linear-gradient(90deg,#6107BB, #EC1036);
 }
 
 .last{background-color: #0dd1ff;
